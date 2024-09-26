@@ -7,9 +7,8 @@ class MvpUtil:
 #        self.idade = idade
 
     # Exibir Qtde de Linhas do Dataset
+    @staticmethod
     def printQtdLinhasDataFrame(df):
-        @staticmethod
-        
         lQtd = df.shape[0]
         md(f'####{lQtd=}')
         return lQtd
