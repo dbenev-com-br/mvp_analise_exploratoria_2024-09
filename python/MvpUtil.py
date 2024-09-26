@@ -1,10 +1,9 @@
 class MvpUtil:
-
-#    def __init__(self, nome, idade):
-#
-#        self.nome = nome
-#
-#        self.idade = idade
+    #    def __init__(self, nome, idade):
+    #
+    #        self.nome = nome
+    #
+    #        self.idade = idade
 
     # Exibir Qtde de Linhas do Dataset
     @staticmethod
