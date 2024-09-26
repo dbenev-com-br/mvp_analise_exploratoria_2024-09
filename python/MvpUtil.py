@@ -14,4 +14,6 @@ class MvpUtil:
     
     @staticmethod
     def teste(df):
-        print('teste')
+        print('teste') 
+        
+        
